@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm xdgf558</h1>
+<h1 align="center">Hi, I'm Station Cat</h1>
 
 <p align="center">
   Indie builder focused on AI tools, automation workflows, and interactive web products.
