@@ -32,6 +32,7 @@
 | --- | --- | --- |
 | [caption-ai-landing-site](https://github.com/xdgf558/caption-ai-landing-site) | Landing page work for AI products with a stronger product story and presentation | Astro |
 | [codex-mobile-controller](https://github.com/xdgf558/codex-mobile-controller) | Mobile controller experiment for a more flexible Codex workflow | TypeScript |
+| [ai-playable-novel-mvp](https://github.com/xdgf558/ai-playable-novel-mvp) | AI playable novel MVP with a FastAPI backend, SwiftUI iOS client, and optional Cloudflare deployment path | Python / SwiftUI |
 | [x-follow-cleaner](https://github.com/xdgf558/x-follow-cleaner) | Local Chrome extension helper for reviewing inactive X following accounts | JavaScript |
 | [cat-life-game](https://github.com/xdgf558/cat-life-game) | A small cat-themed browser game and playful product experiment | JavaScript |
 
