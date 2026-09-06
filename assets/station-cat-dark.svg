@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Station Cat — Small tools. Thoughtful details.</title>
+  <desc id="desc">An independent builder's little station for AI tools, native apps and playful experiments. A mint-colored cat sits at a terminal connected to a railway-inspired route.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2B4248" stroke-width="1" opacity=".45"/></pattern>
+    <clipPath id="round"><rect x="1" y="1" width="1198" height="398" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="400" fill="#111C22"/>
+    <rect x="728" width="472" height="400" fill="url(#grid)"/>
+    <path d="M775 400V345Q775 305 815 305H1103Q1143 305 1143 265V0" fill="none" stroke="#2B4248" stroke-width="2"/>
+    <path d="M798 400V352Q798 329 822 329H1103Q1166 329 1166 266V0" fill="none" stroke="#2B4248" stroke-width="2"/>
+    <circle cx="1143" cy="88" r="7" fill="#111C22" stroke="#A6E3C1" stroke-width="2"/>
+    <circle cx="775" cy="369" r="7" fill="#111C22" stroke="#A6E3C1" stroke-width="2"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="52" y="48" width="34" height="34" rx="10" fill="#A6E3C1"/>
+      <path d="M60 67V56L66 61H72L78 56V67Q78 75 69 75Q60 75 60 67Z" fill="#111C22"/>
+      <circle cx="65.5" cy="66" r="1.3" fill="#A6E3C1"/><circle cx="72.5" cy="66" r="1.3" fill="#A6E3C1"/>
+      <text x="100" y="71" font-size="16" font-weight="700" letter-spacing="3" fill="#A7BDB8">THE INDEPENDENT BUILDER'S STATION</text>
+      <text x="48" y="186" font-size="92" font-weight="700" letter-spacing="-4" fill="#F3F4ED">Station Cat<tspan fill="#A6E3C1">.</tspan></text>
+      <text x="53" y="241" font-size="30" letter-spacing="-.4" fill="#A7BDB8">Small tools. Thoughtful details.</text>
+      <path d="M53 284H655" stroke="#2B4248"/>
+      <text x="53" y="326" font-size="18" font-family="'Courier New', monospace" fill="#A6E3C1">AI TOOLS</text>
+      <circle cx="165" cy="320" r="2" fill="#A7BDB8"/>
+      <text x="185" y="326" font-size="18" font-family="'Courier New', monospace" fill="#A7BDB8">NATIVE APPS</text>
+      <circle cx="330" cy="320" r="2" fill="#A7BDB8"/>
+      <text x="350" y="326" font-size="18" font-family="'Courier New', monospace" fill="#A7BDB8">PLAYFUL EXPERIMENTS</text>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <rect x="802" y="55" width="271" height="249" rx="24" fill="#17272D" stroke="#2B4248" stroke-width="2"/>
+      <path d="M825 89H846M855 89H865" stroke="#A7BDB8" stroke-width="4"/>
+      <circle cx="1046" cy="89" r="4" fill="#A6E3C1"/>
+      <path d="M1008 248C1080 251 1080 177 1049 187C1028 194 1048 217 1062 207" fill="none" stroke="#A6E3C1" stroke-width="12"/>
+      <path d="M875 204Q857 184 865 156L859 122Q859 115 866 119L897 141Q923 133 949 141L980 119Q987 115 987 122L981 156Q989 184 971 204L982 255H864Z" fill="#A6E3C1"/>
+      <path d="M875 142L877 157L889 148M970 142L968 157L956 148" fill="none" stroke="#111C22" stroke-opacity=".25" stroke-width="3"/>
+      <path d="M890 173Q896 166 902 173M945 173Q951 166 957 173" fill="none" stroke="#111C22" stroke-width="3.5"/>
+      <path d="M919 183L924 187L929 183Z" fill="#111C22"/>
+      <path d="M924 187V192M924 192Q919 197 915 192M924 192Q929 197 933 192" fill="none" stroke="#111C22" stroke-width="2.4"/>
+      <path d="M873 179L857 176M873 188L857 191M974 179L990 176M974 188L990 191" stroke="#A6E3C1" stroke-width="2"/>
+      <rect x="850" y="217" width="150" height="65" rx="10" fill="#111C22" stroke="#2B4248" stroke-width="2"/>
+      <path d="M869 238L880 247L869 256M890 256H907" stroke="#A6E3C1" stroke-width="3" fill="none"/>
+      <path d="M838 283H1013" stroke="#A7BDB8" stroke-width="4"/>
+    </g>
+    <rect x="1" y="1" width="1198" height="398" rx="24" fill="none" stroke="#2B4248" stroke-width="2"/>
+  </g>
+</svg>
